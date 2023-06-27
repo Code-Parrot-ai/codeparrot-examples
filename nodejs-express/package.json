@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "record": "CODE_PARROT_APP_NAME=demo-calc-app node -r @codeparrot/js-agent index.js",
-    "replay": "CODE_PARROT_APP_NAME=demo-calc-app CODE_PARROT_IS_REPLAY=true CODE_PARROT_IS_VERSION=1.0.0 node -r @codeparrot/js-agent index.js"
+    "replay": "CODE_PARROT_APP_NAME=demo-calc-app CODE_PARROT_IS_REPLAY=true CODE_PARROT_VERSION=1.0.0 node -r @codeparrot/js-agent index.js"
   },
   "author": "",
   "license": "ISC",
