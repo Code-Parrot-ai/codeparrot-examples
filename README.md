@@ -4,3 +4,6 @@ CodeParrot generates change report on response body, latency & error rates of yo
 
 
 nodejs-express: NodeJs language Express Framework
+
+
+CodeParrot is also available as Github App, checkout https://codeparrot.ai/ to know more.
